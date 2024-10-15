@@ -4,7 +4,6 @@ from PIL import Image, ImageTk
 import os
 # Global variable to store the image path
 image_path = None
-
 # Global variable to store image dimensions and pixel data
 largeur = hauteur = None
 pixel_data = None
